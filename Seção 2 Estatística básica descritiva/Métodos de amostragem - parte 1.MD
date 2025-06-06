@@ -32,8 +32,8 @@ Principais métodos:
 
 > 📐 **Exemplo:**  
 > Em uma população de 200 pessoas:  
-> `P = 1/200`  
->  
+> `P = 1/200`
+>
 > Se quisermos selecionar 3 pessoas, precisamos garantir que **todas as combinações possíveis de 3 pessoas tenham a mesma chance** de serem escolhidas.
 
 Esse método é geralmente realizado por sorteio ou software (como Excel, R ou Python).
@@ -47,11 +47,12 @@ Neste método, os elementos são escolhidos a partir de **intervalos fixos**, ap
 > 🏢 **Exemplo:**  
 > Uma empresa quer saber se seus clientes aprovam a nova embalagem de um produto. Ela decide selecionar uma amostra de **10%** dos clientes usando a **metodologia sistemática**.
 
-> ℹ️ **Cálculo e processo:**  
-> - `10% = 10/100 = 1/10`, ou seja, **1 a cada 10 clientes será selecionado**.  
-> - No Excel, você pode usar a fórmula: `=ALEATÓRIOENTRE(1;10)` para definir o primeiro cliente.  
+> ℹ️ **Cálculo e processo:**
+>
+> - `10% = 10/100 = 1/10`, ou seja, **1 a cada 10 clientes será selecionado**.
+> - No Excel, você pode usar a fórmula: `=ALEATÓRIOENTRE(1;10)` para definir o primeiro cliente.
 > - Depois, continue com:  
-> `n`, `n+10`, `n+20`, `n+30`, ...
+>   `n`, `n+10`, `n+20`, `n+30`, ...
 
 Esse método é prático e bastante utilizado em inspeções, controle de qualidade e auditorias.
 
@@ -73,22 +74,20 @@ Esse método é prático e bastante utilizado em inspeções, controle de qualid
 
 A amostra será de 30 famílias. Quantas de cada tipo devem ser selecionadas?
 
-> ℹ️ **Cálculo proporcional:**  
-> - Total de famílias = 15 + 50 + 20 + 55 = **140**  
-> - 1 pessoa: `15/140 * 30 = 3`  
-> - 2 pessoas: `50/140 * 30 = 11`  
-> - 3 pessoas: `20/140 * 30 = 4`  
+> ℹ️ **Cálculo proporcional:**
+>
+> - Total de famílias = 15 + 50 + 20 + 55 = **140**
+> - 1 pessoa: `15/140 * 30 = 3`
+> - 2 pessoas: `50/140 * 30 = 11`
+> - 3 pessoas: `20/140 * 30 = 4`
 > - 4 ou mais pessoas: `55/140 * 30 = 12`
 
 **✅ Resultado final da amostra:**
 
-- 3 famílias com 1 pessoa  
-- 11 famílias com 2 pessoas  
-- 4 famílias com 3 pessoas  
+- 3 famílias com 1 pessoa
+- 11 famílias com 2 pessoas
+- 4 famílias com 3 pessoas
 - 12 famílias com 4 ou mais pessoas
 
 > 💡 **Dica Didática:**  
-> A amostragem estratificada é muito usada em *pesquisas eleitorais*, onde é importante garantir a representatividade de diferentes regiões, faixas etárias ou níveis de renda.
-
-
-
+> A amostragem estratificada é muito usada em _pesquisas eleitorais_, onde é importante garantir a representatividade de diferentes regiões, faixas etárias ou níveis de renda.
