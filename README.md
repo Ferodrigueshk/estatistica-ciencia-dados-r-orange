@@ -10,30 +10,6 @@ O curso foi desenvolvido por dois especialistas com ampla experiência em Estat�
 
 ---
 
-## 👨‍🏫 Instrutores
-
-### MSc. Grimaldo Lopes de Oliveira – Líder de Dados
-
-- Um dos 50 profissionais mais influentes em dados em 2023 (Gama Academy).
-- Mestre em Gestão e Tecnologias Aplicadas à Educação (UNEB).
-- Mais de 20 anos de experiência como consultor em Data Warehouse, Mineração de Dados, BI e Estatística.
-- Professor em pós-graduações nas instituições UNIFACS, Católica do Salvador e ISL Wyden.
-- Autor do livro *BI COMO DEVE SER*.
-- Criador do blog [BI com Vatapá](https://bicomvatapa.com.br) e do programa BI PRO.
-- + de 150 cursos criados, com mais de 60 mil alunos.
-
-### Prof. Alexandre Raymundo – Especialista em Matemática, Estatística e Excel
-
-> "Ensinar é mais do que transmitir conhecimento; é inspirar a curiosidade e o desejo de aprender continuamente."
-
-- Mais de 20 anos de experiência em ensino de Matemática.
-- Professor em escolas internacionais e chefe de departamento de matemática.
-- Bacharel e licenciado em Matemática, Física e Química.
-- Mestrado em Educação Internacional.
-- Foco em didática acessível e aplicação prática da matemática com uso de tecnologia.
-
----
-
 ## 📚 Conteúdo Abordado no Curso
 
 - Estatística descritiva: média, mediana, desvio padrão
@@ -91,3 +67,29 @@ Este repositório é um projeto pessoal e educacional para acompanhar meu progre
 - [ ] Mineração com Orange
 - [ ] Análise de texto
 - [ ] Projeto final com R ou Weka
+
+---
+## 👨‍🏫 Instrutores
+
+### MSc. Grimaldo Lopes de Oliveira – Líder de Dados
+
+- Um dos 50 profissionais mais influentes em dados em 2023 (Gama Academy).
+- Mestre em Gestão e Tecnologias Aplicadas à Educação (UNEB).
+- Mais de 20 anos de experiência como consultor em Data Warehouse, Mineração de Dados, BI e Estatística.
+- Professor em pós-graduações nas instituições UNIFACS, Católica do Salvador e ISL Wyden.
+- Autor do livro *BI COMO DEVE SER*.
+- Criador do blog [BI com Vatapá](https://bicomvatapa.com.br) e do programa BI PRO.
+- + de 150 cursos criados, com mais de 60 mil alunos.
+
+### Prof. Alexandre Raymundo – Especialista em Matemática, Estatística e Excel
+
+> "Ensinar é mais do que transmitir conhecimento; é inspirar a curiosidade e o desejo de aprender continuamente."
+
+- Mais de 20 anos de experiência em ensino de Matemática.
+- Professor em escolas internacionais e chefe de departamento de matemática.
+- Bacharel e licenciado em Matemática, Física e Química.
+- Mestrado em Educação Internacional.
+- Foco em didática acessível e aplicação prática da matemática com uso de tecnologia.
+
+---
+
