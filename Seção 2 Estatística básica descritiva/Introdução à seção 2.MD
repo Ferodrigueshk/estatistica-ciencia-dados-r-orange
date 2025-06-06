@@ -9,7 +9,7 @@ Muita gente passa os anos da escola e até da faculdade só decorando o conteúd
 
 ![alt text](2018302777-metodo-cornell.webp)
 
-A versão e-book do livro está disponível apenas em inglês na Amazon, mas neste texto você aprende como executar o método, passo a passo. Ele foi criado para ser colocado em prática dentro da sala de aula, com o próprio caderno do aluno. Tudo que você precisa é papel, caneta e uma régua se quiser um traço bem retinho - marcadores coloridos são opcionais.
+A versão e-book do livro está disponível apenas em inglês na Amazon ![https://amzn.to/43zutfv], mas neste texto você aprende como executar o método, passo a passo. Ele foi criado para ser colocado em prática dentro da sala de aula, com o próprio caderno do aluno. Tudo que você precisa é papel, caneta e uma régua se quiser um traço bem retinho - marcadores coloridos são opcionais.
 
 + O cientista que inventou uma técnica para aprender qualquer coisa
 
@@ -44,3 +44,6 @@ Por que fazer anotações e resumos?
 
 ## Fonte:
 https://www.terra.com.br/noticias/educacao/o-metodo-de-anotacao-para-quem-quer-aprender-de-verdade,cc6bfe848ac8eac32676764c03a3d7b0emvrfwhg.html
+
+## Autora:
+Ludimila Ferreira
