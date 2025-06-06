@@ -26,8 +26,6 @@ O curso foi desenvolvido por dois especialistas com ampla experiência em Estat�
 ## 🧠 Organização deste Repositório
 
 
-
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
