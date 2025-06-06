@@ -1,59 +1,94 @@
-(Título) Métodos de amostragem - parte 1
+# 📊 Métodos de Amostragem - Parte 1
 
-(Subtítulo) Amostragem
-(paragrafo) De um modo geral, ao coletar-se uma amostra, deve-se ter certeza que ela será selecionada ao acaso, de maneira aleatória
-PQ? para garantir que cada membro da população tenha a mesma chance de ser chamado e que a conclusão seja o menos tendenciosa possível;
+## 🎯 Amostragem
 
-A seguir vamos estudar dois tipo sde amostragem: 
-* probabilisticas
-* não probabililsticas
+A amostragem é uma técnica essencial em estatística. De modo geral, ao coletar uma amostra, é fundamental garantir que ela seja **selecionada de maneira aleatória**.
 
-(Subtitulo)Amostragem probabilistica
-(paragrafo) Cada individuo tem a mesma propabilidade de ser selecionado; deve garantir aleatoriedade; inferencias e conclusões mais justas em relação a população;
-Formas de aleatoriedade:
-* Aleatoria simples,
-* Aleatória sistemática 
-* aleatoria estratificada(proporcional)
+> ❓ **Por quê?**  
+> Para assegurar que **cada membro da população tenha a mesma chance de ser escolhido**, reduzindo o viés e aumentando a confiabilidade das conclusões.
 
-(subtítulo) Aleatoria simples
-(paragrafo) Uma pequena representação da população representando matematicamante  1/nº de elementos da população 
-uma população com 200 elementos será repesentada:
+Existem dois tipos principais de amostragem:
 
-prob = 1/200
+- **Probabilísticas**: todos têm chance conhecida de serem escolhidos.
+- **Não probabilísticas**: nem todos os elementos têm a mesma chance, o que pode gerar viés.
 
-agora se eu quiser selecioa um grupo de tres pessoas dentro da população, eu deveo garantir que todos os grupos de 3 pessoas tenham a mesma 
-probabilidade de ser selecionados 
+---
 
-(subtítulo) Amostragem aleatória sistemática
-(paragrafo) aleatória sistematica é criada selecionando elementos da população em intervalos constantes, após o primeiro elemento ter sito selecionado aleatoriamente 
+## 🔄 Amostragem Probabilística
 
-Exemplo: Uma emepresa quer determinar se clientes em potencial aprovaria, a embalagem de um novo produto. ela decide selecionar um aamostra de 10% de seus clientes usando uma metodologia sistemática. Como sedaria essa seleção?
+Nesse tipo de amostragem, **cada indivíduo da população possui a mesma probabilidade de ser selecionado**. Isso garante **aleatoriedade** e permite realizar inferências mais justas e representativas sobre a população.
 
-(texto em azul e negrito) 10% = 10/100 = 1/10 ou seja 1 a cada 10 clientes será selecionado na amostragem
+Principais métodos:
 
-no excel é possivel usar a função =aleatórioentre(1,10)
+- Amostragem **aleatória simples**
+- Amostragem **aleatória sistemática**
+- Amostragem **estratificada (proporcional)**
 
-portanto a empresa irá selecionar o nº cliente, seguido do n+10, n+20, n+30, n+40 etc (Azul e negrito até aqui)
+---
 
-(Subtítulo) Amostragem aleatória estratificada
-(paragrafo) população dividida em subgrupos, e quermos que cada grupo seja representado da maneira mais justa apossível.
+## 📌 Amostragem Aleatória Simples
 
-seleciona um numero x de membros de cada subgrupo, proporcionalao tamanho de cada grupo, 
+É quando cada elemento da população tem a **mesma probabilidade matemática** de ser incluído na amostra.
 
+> 📐 **Exemplo:**  
+> Em uma população de 200 pessoas:  
+> `P = 1/200`  
+>  
+> Se quisermos selecionar 3 pessoas, precisamos garantir que **todas as combinações possíveis de 3 pessoas tenham a mesma chance** de serem escolhidas.
 
-Exemplo em um condominio há um total 15 familias compostas por 1 pessoa, 50 compostas por 2 pessoas, 20 compostas por 3 pessoas, e 55 compostas por 4 ou mais 
-uma amostra de 30 familias deve ser selecionada. Quantas familias de cada seubgrupodevem ser escolhidas para compor a amostra?
+Esse método é geralmente realizado por sorteio ou software (como Excel, R ou Python).
 
-(texto em azul e negrito) Numero de familias no condominio: 15 + 50 + 20 + 55 = 140
-cada subgrupo deve ser proprocianal a essas 140 familias
+---
 
-nro de familias com 1 pessoa = 15/140 * 30 = 3 
-nro de familias com 2 pessoas = 50/140 * 30 = 11 
-nro de familias com 3 pessoas = 20/140 * 30 = 4 
-nro de familias com 4 ou mais pessoas = 55/140 * 30 = 12  
+## 🧭 Amostragem Aleatória Sistemática
 
-portanto, para garantir uma justa proporcionalidade, o condominio deve selecionar 3 familia com 1 pessoa, 11 familias com 2 pessoas, 4 familias com 3 pessoas e 12 familias com 4 ou mais pessoas (Azul e negrito até aqui)
+Neste método, os elementos são escolhidos a partir de **intervalos fixos**, após a escolha aleatória do primeiro item.
 
+> 🏢 **Exemplo:**  
+> Uma empresa quer saber se seus clientes aprovam a nova embalagem de um produto. Ela decide selecionar uma amostra de **10%** dos clientes usando a **metodologia sistemática**.
+
+> ℹ️ **Cálculo e processo:**  
+> - `10% = 10/100 = 1/10`, ou seja, **1 a cada 10 clientes será selecionado**.  
+> - No Excel, você pode usar a fórmula: `=ALEATÓRIOENTRE(1;10)` para definir o primeiro cliente.  
+> - Depois, continue com:  
+> `n`, `n+10`, `n+20`, `n+30`, ...
+
+Esse método é prático e bastante utilizado em inspeções, controle de qualidade e auditorias.
+
+---
+
+## 🧩 Amostragem Aleatória Estratificada
+
+É aplicada quando a população pode ser dividida em **subgrupos (estratos)** com características semelhantes, e deseja-se que **todos os grupos estejam proporcionalmente representados** na amostra.
+
+> 🧮 A seleção de indivíduos deve seguir uma **proporção equivalente ao tamanho de cada estrato** em relação à população total.
+
+> 📐 **Exemplo:**  
+> Em um condomínio, existem:
+>
+> - 15 famílias com **1 pessoa**
+> - 50 famílias com **2 pessoas**
+> - 20 famílias com **3 pessoas**
+> - 55 famílias com **4 ou mais pessoas**
+
+A amostra será de 30 famílias. Quantas de cada tipo devem ser selecionadas?
+
+> ℹ️ **Cálculo proporcional:**  
+> - Total de famílias = 15 + 50 + 20 + 55 = **140**  
+> - 1 pessoa: `15/140 * 30 = 3`  
+> - 2 pessoas: `50/140 * 30 = 11`  
+> - 3 pessoas: `20/140 * 30 = 4`  
+> - 4 ou mais pessoas: `55/140 * 30 = 12`
+
+**✅ Resultado final da amostra:**
+
+- 3 famílias com 1 pessoa  
+- 11 famílias com 2 pessoas  
+- 4 famílias com 3 pessoas  
+- 12 famílias com 4 ou mais pessoas
+
+> 💡 **Dica Didática:**  
+> A amostragem estratificada é muito usada em *pesquisas eleitorais*, onde é importante garantir a representatividade de diferentes regiões, faixas etárias ou níveis de renda.
 
 
 
