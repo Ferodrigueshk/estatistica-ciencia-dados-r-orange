@@ -31,7 +31,7 @@ Veja um exemplo usando a Revolução Chinesa abaixo.
 
 
 
-[alt text](1669847868-exemplo-metodo-cornell.webp)
+![alt text](1669847868-exemplo-metodo-cornell.webp)
 
 Exemplo de resumo da Revolução Chinesa feito com o Método Cornell
 Foto: Guia do Estudante/Canva/Reprodução / Guia do Estudante
