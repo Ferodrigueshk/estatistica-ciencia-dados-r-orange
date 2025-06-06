@@ -68,7 +68,7 @@ Nesta primeira aula, realizaremos:
 - Atuante há mais de 20 anos como consultor nas áreas de Estatística, Data Warehouse e Mineração de Dados.
 - Mestre em Gestão e Tecnologias Aplicadas à Educação (UNEB).
 - Professor de pós-graduação em diversas instituições de ensino superior.
-- Autor do livro *BI Como Deve Ser* e criador do blog [BI com Vatapá](https://bicomvatapa.com.br).
+- Autor do livro *BI Como Deve Ser* e criador do blog [BI com Vatapá](https://bicomvatapa.blogspot.com/).
 
 ### Prof. Alexandre Raymundo
 - Especialista em Matemática, Estatística e Excel com mais de 20 anos de experiência em ensino.
