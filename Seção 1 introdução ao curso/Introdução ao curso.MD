@@ -6,22 +6,6 @@ Neste curso completo, vamos mergulhar em conceitos fundamentais e avançados de 
 
 ---
 
-## 👨‍🏫 Sobre os Instrutores
-
-### MSc. Grimaldo Lopes
-- Referência em BI e Ciência de Dados, com mais de 60.000 alunos.
-- Atuante há mais de 20 anos como consultor nas áreas de Estatística, Data Warehouse e Mineração de Dados.
-- Mestre em Gestão e Tecnologias Aplicadas à Educação (UNEB).
-- Professor de pós-graduação em diversas instituições de ensino superior.
-- Autor do livro *BI Como Deve Ser* e criador do blog [BI com Vatapá](https://bicomvatapa.com.br).
-
-### Prof. Alexandre Raymundo
-- Especialista em Matemática, Estatística e Excel com mais de 20 anos de experiência em ensino.
-- Professor em escolas internacionais e chefe de departamento de matemática.
-- Mestrado em Educação Internacional e ampla experiência em ambientes educacionais presenciais e online.
-
----
-
 ## 🎯 Objetivos do Curso
 
 Nesta jornada, você aprenderá a:
@@ -77,11 +61,18 @@ Nesta primeira aula, realizaremos:
 5. Primeiros passos com R: operações básicas e manipulação de vetores
 
 ---
+## 👨‍🏫 Sobre os Instrutores
 
-📢 **Dica**: Crie um repositório pessoal (como este!) para documentar todo o seu progresso. Assim você poderá rever facilmente o conteúdo e também apresentar seu conhecimento como portfólio.
+### MSc. Grimaldo Lopes
+- Referência em BI e Ciência de Dados, com mais de 60.000 alunos.
+- Atuante há mais de 20 anos como consultor nas áreas de Estatística, Data Warehouse e Mineração de Dados.
+- Mestre em Gestão e Tecnologias Aplicadas à Educação (UNEB).
+- Professor de pós-graduação em diversas instituições de ensino superior.
+- Autor do livro *BI Como Deve Ser* e criador do blog [BI com Vatapá](https://bicomvatapa.com.br).
 
----
-
-👨‍💻 Bons estudos e até a próxima aula!
+### Prof. Alexandre Raymundo
+- Especialista em Matemática, Estatística e Excel com mais de 20 anos de experiência em ensino.
+- Professor em escolas internacionais e chefe de departamento de matemática.
+- Mestrado em Educação Internacional e ampla experiência em ambientes educacionais presenciais e online.
 
 ---
