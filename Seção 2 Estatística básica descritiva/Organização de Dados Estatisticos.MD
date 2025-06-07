@@ -6,7 +6,7 @@
 
 É muito comum organizarmos uma grande quantidade de dados na forma de uma **tabela de frequência**.
 
-> 🧠 **Por quê?**  
+> 🧠 **Por quê?**
 > Porque esse tipo de tabela nos permite visualizar melhor a distribuição dos dados e facilita o cálculo de medidas como média, mediana, desvio padrão, entre outras.
 
 ---
@@ -19,11 +19,10 @@ Suponha a seguinte amostra com **30 dados**:
 5, 5, 5, 6, 6, 6, 6, 7, 7, 7,
 7, 7, 8, 8, 8, 9, 9, 9, 9, 9
 
-
 Podemos organizar esses dados em uma **tabela de frequências**:
 
 | Valor (Xi) | Frequência (Fi) |
-|------------|-----------------|
+| ---------- | --------------- |
 | 1          | 2               |
 | 2          | 3               |
 | 3          | 2               |
@@ -35,8 +34,9 @@ Podemos organizar esses dados em uma **tabela de frequências**:
 | 9          | 5               |
 | **Total**  | **30**          |
 
-> ✳️ **Nota:**  
-> - `Xi`: Cada valor distinto da variável.  
+> ✳️ **Nota:**
+>
+> - `Xi`: Cada valor distinto da variável.
 > - `Fi`: Frequência com que o valor aparece na amostra.
 
 📊 Um **gráfico de barras** pode ser usado para visualizar melhor essa distribuição!
@@ -57,16 +57,15 @@ Um proprietário de supermercado deseja analisar a quantidade de clientes entre 
 16, 35, 24, 18, 24, 44, 33, 54, 31, 39,
 41, 38, 24, 32, 15, 16, 13, 11, 46, 40
 
-
 Organizando os dados com **intervalos de classe de amplitude 10**:
 
 | Nº de Clientes | Contagem | Frequência |
-|----------------|----------|------------|
-| 10 a 19        | 9        | ▓▓▓▓▓▓▓▓▓   |
-| 20 a 29        | 7        | ▓▓▓▓▓▓▓     |
-| 30 a 39        | 8        | ▓▓▓▓▓▓▓▓    |
-| 40 a 49        | 5        | ▓▓▓▓▓       |
-| 50 a 59        | 1        | ▓           |
+| -------------- | -------- | ---------- |
+| 10 a 19        | 9        | ▓▓▓▓▓▓▓▓▓  |
+| 20 a 29        | 7        | ▓▓▓▓▓▓▓    |
+| 30 a 39        | 8        | ▓▓▓▓▓▓▓▓   |
+| 40 a 49        | 5        | ▓▓▓▓▓      |
+| 50 a 59        | 1        | ▓          |
 | **Total**      | **30**   |            |
 
 📊 Também é possível construir um **histograma** ou um gráfico de barras para melhor visualização.
@@ -93,18 +92,17 @@ Suponha os seguintes dados:
 30, 31, 31, 31, 32, 32, 32, 34, 35,
 40, 44, 48, 49, 52, 56, 57, 57, 58, 63, 66
 
-
 #### 🌱 Caule e Folha:
 
-| Caule | Folha             |
-|-------|-------------------|
+| Caule | Folha                           |
+| ----- | ------------------------------- |
 | 0     | 1, 1, 2, 2, 3, 4, 4, 4, 4, 5, 8 |
-| 1     | 0, 0, 0, 1, 1, 3, 7, 8         |
-| 2     | 5, 5, 7, 7, 8, 8, 9, 9         |
-| 3     | 0, 1, 1, 1, 2, 2, 2, 4, 5      |
-| 4     | 0, 4, 8, 9                     |
-| 5     | 2, 6, 7, 7, 8                  |
-| 6     | 3, 6                           |
+| 1     | 0, 0, 0, 1, 1, 3, 7, 8          |
+| 2     | 5, 5, 7, 7, 8, 8, 9, 9          |
+| 3     | 0, 1, 1, 1, 2, 2, 2, 4, 5       |
+| 4     | 0, 4, 8, 9                      |
+| 5     | 2, 6, 7, 7, 8                   |
+| 6     | 3, 6                            |
 
 > 🧾 **Legenda:**  
 > `6 | 3` significa **63**
