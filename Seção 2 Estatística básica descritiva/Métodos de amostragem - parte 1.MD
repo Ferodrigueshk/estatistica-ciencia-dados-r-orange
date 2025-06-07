@@ -4,7 +4,7 @@
 
 A amostragem é uma técnica essencial em estatística. De modo geral, ao coletar uma amostra, é fundamental garantir que ela seja **selecionada de maneira aleatória**.
 
-> ❓ **Por quê?**  
+> ❓ **Por quê?**
 > Para assegurar que **cada membro da população tenha a mesma chance de ser escolhido**, reduzindo o viés e aumentando a confiabilidade das conclusões.
 
 Existem dois tipos principais de amostragem:
@@ -30,8 +30,8 @@ Principais métodos:
 
 É quando cada elemento da população tem a **mesma probabilidade matemática** de ser incluído na amostra.
 
-> 📐 **Exemplo:**  
-> Em uma população de 200 pessoas:  
+> 📐 **Exemplo:**
+> Em uma população de 200 pessoas:
 > `P = 1/200`
 >
 > Se quisermos selecionar 3 pessoas, precisamos garantir que **todas as combinações possíveis de 3 pessoas tenham a mesma chance** de serem escolhidas.
@@ -44,14 +44,14 @@ Esse método é geralmente realizado por sorteio ou software (como Excel, R ou P
 
 Neste método, os elementos são escolhidos a partir de **intervalos fixos**, após a escolha aleatória do primeiro item.
 
-> 🏢 **Exemplo:**  
+> 🏢 **Exemplo:**
 > Uma empresa quer saber se seus clientes aprovam a nova embalagem de um produto. Ela decide selecionar uma amostra de **10%** dos clientes usando a **metodologia sistemática**.
 
 > ℹ️ **Cálculo e processo:**
 >
 > - `10% = 10/100 = 1/10`, ou seja, **1 a cada 10 clientes será selecionado**.
 > - No Excel, você pode usar a fórmula: `=ALEATÓRIOENTRE(1;10)` para definir o primeiro cliente.
-> - Depois, continue com:  
+> - Depois, continue com:
 >   `n`, `n+10`, `n+20`, `n+30`, ...
 
 Esse método é prático e bastante utilizado em inspeções, controle de qualidade e auditorias.
@@ -64,7 +64,7 @@ Esse método é prático e bastante utilizado em inspeções, controle de qualid
 
 > 🧮 A seleção de indivíduos deve seguir uma **proporção equivalente ao tamanho de cada estrato** em relação à população total.
 
-> 📐 **Exemplo:**  
+> 📐 **Exemplo:**
 > Em um condomínio, existem:
 >
 > - 15 famílias com **1 pessoa**
@@ -86,8 +86,3 @@ A amostra será de 30 famílias. Quantas de cada tipo devem ser selecionadas?
 
 - 3 famílias com 1 pessoa
 - 11 famílias com 2 pessoas
-- 4 famílias com 3 pessoas
-- 12 famílias com 4 ou mais pessoas
-
-> 💡 **Dica Didática:**  
-> A amostragem estratificada é muito usada em _pesquisas eleitorais_, onde é importante garantir a representatividade de diferentes regiões, faixas etárias ou níveis de renda.
