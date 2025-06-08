@@ -5,5 +5,6 @@
 (SUbtitulo) Gráfico de barras
 (paragráfo) Método mais popular para apresenta ção de dados estatisticos coletados durante uma amostragem
 
-
 ![alt text](<Grafico de barras-1.png>)![alt text](<Grafico de barras-2.png>)
+
+Se a variavel for discreta, deve haver um espaço entre elas.
